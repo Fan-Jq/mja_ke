@@ -1,4 +1,4 @@
-var a = '[{"coursenum":10001,"selected":false,"tried":false},{"coursenum":10002,"selected":false,"tried":false}£¬{"coursenum":10003,"selected":false,"tried":false}]';
+var a = '[{"coursenum":10001,"selected":false,"tried":false},{"coursenum":10002,"selected":false,"tried":false},{"coursenum":10003,"selected":false,"tried":false}]';
 var idealcourse = JSON.parse(a);
 
 var coursenow;
