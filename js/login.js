@@ -1,3 +1,3 @@
-document.getElementById("netid").value = "你的帐户名";
-document.getElementById("password").value = "你的密码";
+document.getElementById("netid").value = "yourid";
+document.getElementById("password").value = "yourpasswd";
 document.getElementsByName("login_button")[0].click();
